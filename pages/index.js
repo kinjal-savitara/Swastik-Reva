@@ -69,7 +69,7 @@ const handleSubmit = (e) => {
           display: "block",
         }}
         allow="vr;xr-spatial-tracking;gyroscope;accelerometer;magnetometer;"
-        title="Virtual Tour"
+        title="Swastik Reva"
       ></iframe>
  
            
