@@ -68,7 +68,10 @@ const handleSubmit = (e) => {
           border: "none",
           display: "block",
         }}
-        allow="vr;xr-spatial-tracking;gyroscope;accelerometer;magnetometer;"
+        allow="fullscreen;vr;xr-spatial-tracking;gyroscope;accelerometer;magnetometer;"
+         allowFullScreen
+        webkitAllowFullScreen="true"
+        mozAllowFullScreen="true"
         title="Swastik Reva"
       ></iframe>
  
